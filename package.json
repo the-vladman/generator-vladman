@@ -1,0 +1,25 @@
+{
+  "name": "generator-vladman",
+  "version": "0.1.0",
+  "description": "Mi primer generador Yeoman",
+  "files": [
+    "generators"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-vladman/generator-vladman.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Vladimir Galicia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-vladman/generator-vladman/issues"
+  },
+  "homepage": "https://github.com/the-vladman/generator-vladman#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1",
+    "yosay": "^2.0.0"
+  }
+}
